@@ -1,2 +1,2 @@
-# Exerc-cios-
+# Exercicios
 Exercícios de aulas de Algoritmos 
