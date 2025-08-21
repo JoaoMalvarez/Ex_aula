@@ -7,7 +7,7 @@ int main() {
     scanf("%d", &taxa);
 
     if (taxa < 8) {
-        printf("Número informado inválido, adicione um número maior ou igual a 8 centavos.\n");
+        printf("Número informado inválido, coloque um número maior ou igual a 8 centavos.\n");
         return 1;
     }
     
