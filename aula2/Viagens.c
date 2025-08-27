@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// colocar o minuto()
+
 int diferenca() {
     int hr1, min1, hr2, min2;
     int inicial, final, tot;
