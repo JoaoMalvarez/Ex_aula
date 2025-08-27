@@ -4,11 +4,11 @@ int diferenca() {
     int hr1, min1, hr2, min2;
     int inicial, final, tot;
 
-    printf("Informe a hora em que seu voo sai (hh:mm): ");
+    printf("Informe a hora em que seu voo sai (hh:mm): \n");
     scanf("%d:%d", &hr1, &min1);
     inicial = hr1 * 60 + min1;
     
-    printf("Informe a hora em que seu voo chega (hh:mm): ");
+    printf("Informe a hora em que seu voo chega (hh:mm): \n");
     scanf("%d:%d", &hr2, &min2);
     final = hr2 * 60 + min2;
 
