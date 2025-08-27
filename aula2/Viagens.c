@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// tem que fazer o 00:00, a divisao deles, ja fiz a conta
+
 minutos = 0
 horas = 0
 total = horas * 60 + minutos
