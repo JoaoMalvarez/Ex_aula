@@ -28,8 +28,5 @@ int diferenca() {
         tot = final - inicial;
         printf("O voo será de %d horas\n", tot);
     }
-        
-    
-    
     return 0
 }
