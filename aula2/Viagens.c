@@ -24,6 +24,6 @@ int minutos() {
             tot = final - inicial;
             printf("O voo será de %d horas\n", tot);
         }
-         return 0;
     }
+    return 0;
 }
